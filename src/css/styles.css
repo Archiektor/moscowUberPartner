@@ -158,7 +158,7 @@ nav {
     margin: 71px auto 80px auto;
 }
 
-.advantages > p {
+.label {
     width: 112px;
     margin: 0 auto;
     height: 24px;
@@ -171,7 +171,7 @@ nav {
     padding: 6px 0;
 }
 
-.advantages h2 {
+.title {
     text-align: center;
     margin-top: 44px;
     color: #222222;
