@@ -2,8 +2,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/*HEADER*/
-
 header {
     position: relative;
 }
@@ -42,7 +40,6 @@ nav {
 }
 
 .subheader {
-    /*!!! 1st possibility to make div transparent*/
     position: absolute;
     top: 50px;
     width: 100%;
@@ -101,14 +98,8 @@ nav {
     border-radius: 4px;
 }
 
-/*Section PROMO*/
-
 .promo {
-    /*2nd posibility to transparent*/
-    /*position: relative;*/
-    /*margin-top: -84px;*/
     min-height: 100vh;
-    /*z-index: -1;*/
     background: url('../img/main_pic.jpg') center center/cover no-repeat;
     text-align: center;
     padding: 150px 0 135px 0;
@@ -152,8 +143,6 @@ nav {
     padding: 12px 30px;
 }
 
-/*Section ADvaNTAGES*/
-
 .advantages {
     margin: 71px auto 80px auto;
 }
@@ -185,7 +174,6 @@ nav {
     flex-flow: nowrap row;
     justify-content: center;
     align-items: center;
-    /*border: 2px black dotted;*/
 }
 
 .round {
